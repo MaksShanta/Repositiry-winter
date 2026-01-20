@@ -1,6 +1,6 @@
 # Recept 
 ## Ingridients 
-* Limon 
+* Lime 
 * Salt
 * Water 
 ## Instruction
