@@ -2,6 +2,9 @@
 ## Ingridients 
 * Lime 
 * Salt
-* Water 
+* Water
+* avocado
 ## Instruction
+* peel the avocado
+* greate lime
 
